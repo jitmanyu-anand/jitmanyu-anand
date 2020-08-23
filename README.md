@@ -4,7 +4,7 @@
  
  -> President, ARES Robotics
 
- ->General Secretary of Music, Ashwamedh - The Dramatics Society of NSIT
+ -> General Secretary of Music, Ashwamedh - The Dramatics Society of NSIT
 <!--
 **jitmanyu-anand/jitmanyu-anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

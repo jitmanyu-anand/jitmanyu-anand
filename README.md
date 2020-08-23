@@ -1,6 +1,7 @@
 ### Hi there 👋
 # I'm Jitmanyu
  ECE undergraduate at NSIT, Delhi
+ 
  -> President ARES Robotics
 
 <!--
